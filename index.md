@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Robert Brachman
+description: My personal website and work. Both personal and school. This site is a work in progress.
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
