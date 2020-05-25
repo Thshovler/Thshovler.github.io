@@ -9,5 +9,5 @@ This is personal work I have developed for fun and school.
 
 - [Time Series Decomposition (First Link)](/initial_setup/index.md)
 
-Future Courses
+Future Courses Repositories
 - [CTBA](https://github.com/Thshovler/VisualizationCourse)
