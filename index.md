@@ -5,4 +5,4 @@ description: My personal website and work for personal projects and school. This
 
 This is personal work I have developed for fun and school.
 
-- [Time Series Decomposition](/inital_setup/index.md)
+- [Time Series Decomposition](/initial_setup/index.md)
