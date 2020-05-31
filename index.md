@@ -7,7 +7,7 @@ description: My personal website and work for personal projects and school.
 
 This is personal work I have developed for fun and school.
 
-- [Time Series Decomposition (First Link)](/initial_setup/index.md)
+- [Time Series Decomposition](/initial_setup/index.md)
 
 Future Courses Repositories
 - [CTBA](https://github.com/Thshovler/VisualizationCourse)
